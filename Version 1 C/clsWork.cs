@@ -12,6 +12,8 @@ namespace Version_1_C
         public clsWork()
         {
             EditDetails();
+
+            object ds = null;
         }
 
         public abstract void EditDetails();
